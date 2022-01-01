@@ -3,3 +3,6 @@ My implementation of Q-learning homework for CMUs Machine Learning Class. For mo
 Files:
 
 QLearningProgrammingAssignment.pdf --> instructions for the assignment
+q_learning.py --> main code
+environment.py --> set up environment; will call other scripts
+examples/ --> some examples and test cases
